@@ -48,7 +48,11 @@ This project uses **5 CSV files**:
 
 ## 📂 Project Structure
 
+```
 hotel_analysis/
-├── data/ # CSV datasets
-├── hotel_analysis.ipynb # Jupyter Notebook with full analysis
-└── README.md # Project documentation
+├── data/                  # CSV datasets
+├── hotel_analysis.ipynb   # Jupyter Notebook with full analysis
+└── README.md              # Project documentation
+```
+
+
