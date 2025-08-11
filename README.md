@@ -26,4 +26,6 @@ Each project includes:
 
 ---
 
-## 📂 Project Structure
+## 📈 Projects
+- [**Hotel Data Analysis**](./Exploratory_Data_Analytics_EDA_in_Hospitality_Domain) – Insights from multi-source hotel booking datasets, including trends, capacity, and revenue analysis.
+
